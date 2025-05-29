@@ -66,6 +66,10 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📄 License
+
+This project was created by [izaias](http://izaias.vercel.app) while trying to understand Google Stitch's Copy to figma feature.
+
 ---
 
 **💡 Found this useful?** Give it a star ⭐ and share with other Figma developers!
