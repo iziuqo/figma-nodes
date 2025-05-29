@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📄 Motivation
 
-This project was created by [izaias](http://izaias.vercel.app) while trying to understand Google Stitch's Copy to figma feature.
+This project was created by [izaias](http://izaias.vercel.app) while trying to understand **Google Stitch's Copy to Figma** feature.
 
 ---
 
