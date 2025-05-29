@@ -2,7 +2,7 @@
 
 > **🚀 Community-driven documentation of Figma's internal node JSON structure**
 
-[![GitHub stars](https://img.shields.io/github/stars/iziuqo/figma-figma-nodes?style=social)](https://github.com/iziuqo/figma-figma-nodes)
+[![GitHub stars](https://img.shields.io/github/stars/iziuqo/figma-nodes?style=social)](https://github.com/iziuqo/figma-nodes)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
